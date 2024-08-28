@@ -1,6 +1,7 @@
 # 24k-3081
-1. Name: Muhammad Zarrar Khan
-2. Brief Bio
+Name: Muhammad Zarrar Khan
+
+
 +    Almost 18 years old
 +    I enjoy and appreciate Art
 +    Everlasting loyalty to the State of Pakistan
