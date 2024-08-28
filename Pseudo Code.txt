@@ -1,0 +1,40 @@
+*Question 1*
+1 . START 
+2 . INPUT num1
+3 . INPUT num2
+4 . INPUT num3
+5 . IF num1>num2 THEN
+6 .   IF num1>num3 THEN
+7 .     PRINT num1" is the biggest"
+8 .   ELSE
+9 .     PRINT num3" is the biggest"
+10. ELSE
+11.   IF num2>num3 THEN
+12.     PRINT num2" is the biggest"
+13.   ELSE
+14.     PRINT num3" is the biggest"
+15. END
+
+*Question 2*
+1 . START 
+2 . INPUT num1
+3 . INPUT num2
+4 . INPUT num3
+5 . SET sum to 0
+6 . SET sum to 0-num1-num2-num3
+7 . SET sum to (sum)*(-1)
+8 . PRINT sum 
+9 . END
+
+*Question 3*
+1 . START 
+2 . INPUT num1
+3 . INPUT num2
+4 . INPUT sign
+5 . IF sign=="+" THEN
+6 .   PRINT num1+num2
+7 . ELSE IF sign=="-" THEN
+8 .   PRINT num1-num2
+9 . ELSE
+10.   PRINT "invalid sign"
+11. END
