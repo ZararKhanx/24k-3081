@@ -1,0 +1,61 @@
+*Qestion 1*
+1 . Start
+2 . Input num1 and num2 from user
+3 . Find quotient of num2 from num1 (num2 % num1) 
+4 . If quotient is 0 
+5 .   Display num1," is a divisor"
+6 .   Find quotient of num1 from 2 (num1 % 2)
+7 .   If quotient is 0
+8 .     Display num1," is even"
+9 .   Else
+10.     Display num1," is odd"
+11. Else
+12.   Display num1," is not a divisor"
+13. End
+
+*Question2*
+1 . Start
+2 . Input num from user
+3 . If num==1
+4 .   Display "January"
+5 . Else if num==2
+6 .   Display "Febuary"
+7 . Else if num==3
+8 .   Display "March"
+9 . Else if num==4
+10.   Display "April"
+11. Else if num==5
+12.   Display "May"
+13. Else if num==6
+14.   Display "June"
+15. Else if num==7
+16.   Display "July"
+17. Else if num==8
+18.   Display "August"
+19. Else if num==9
+20.   Display "September"
+21. Else if num==10
+22.   Display "October"
+23. Else if num==11
+24.   Display "November"
+25. Else if num==12
+26.   Display "December"
+27. Else
+28.   Display "Invalid number"
+29. End
+
+*Question 3*
+1 . Start
+2 . Input num1 and num2 from user 
+3 . Input sign from user (*,/,-,+,%)
+4 . If sign=="*"
+5 .   Display num1*num2
+6 . Else if sign=="/"
+7 .   Display num1/num2
+8 . Else if sign=="-"
+9 .   Display num1-num2
+10. Else if sign=="+"
+11.   Display num1+num2
+12. Else if sign=="%"
+13.   Display num1%num2
+14. End
